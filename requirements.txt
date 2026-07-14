@@ -1,0 +1,12 @@
+langchain
+langchain-nvidia-ai-endpoints
+langchain-community 
+
+youtube-transcript-api
+pytube
+
+dotenv
+
+langchain-chroma
+
+pydantic
