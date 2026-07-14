@@ -10,3 +10,5 @@ dotenv
 langchain-chroma
 
 pydantic
+
+streamlit
